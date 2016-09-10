@@ -4,4 +4,11 @@
 
 二、本节课的内容
     1、第一次上机操作，模仿，调试，编写一个“世界你好”的程序；
+    参考代码：（C）
+    #include<stdio.h>
+    int main(){
+        printf("hello world!");
+        return 0;
+    }
+    
     2、完成书本1.1和1.2的内容
